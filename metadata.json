@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Origin Social",
+  "description": "A minimalist, intimate social network focused on high-quality connections with close friends, inspired by the personal journal aesthetic of the early 2010s.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
